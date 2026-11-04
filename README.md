@@ -1,3 +1,3 @@
 # ohtuvarasto
 
-https://github.com/gabidal/ohtuvarasto/actions/workflows/main.yml/badge.svg
+[![CI](https://github.com/Gabidal/ohtuvarasto/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Gabidal/ohtuvarasto/actions/workflows/main.yml)
